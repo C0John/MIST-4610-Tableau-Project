@@ -25,7 +25,7 @@ generated from Tableau)
 
 
 ## Question 2:
-(insert question here)
+What is the average sales ratio for each property type? In addition, for each property type, how does the assessed value compare to the actual sale amount?
 
 - (insert importance here (social, economic, cultural, and other factors)
 - (insert how this question is tied to the data set and being used)
