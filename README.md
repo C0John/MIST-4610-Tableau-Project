@@ -16,22 +16,22 @@ Our dataset details all real estate sales in the state of Connecticut between Oc
 ## Question 1:
 Which cities had the highest average real estate sale price? Over time, how did the sale price change over the course of the decade?
 
-(insert importance here (social, economic, cultural, and other factors)
-(insert how this question is tied to the data set and being used)
-(insert graph/tableau results)
-(insert analysis and results: Analyze and visualize the results of your analysis and describe the implications of your analysis.
-Please provide any citations if required as well as supporting visualizations and analysis
+- (insert importance here (social, economic, cultural, and other factors)
+- (insert how this question is tied to the data set and being used)
+- (insert graph/tableau results)
+- (insert analysis and results: Analyze and visualize the results of your analysis and describe the implications of your analysis.
+- Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau)
 
 
 ## Question 2:
 (insert question here)
 
-(insert importance here (social, economic, cultural, and other factors)
-(insert how this question is tied to the data set and being used)
-(insert graph/tableau results)
-(insert analysis and results: Analyze and visualize the results of your analysis and describe the implications of your analysis.
-Please provide any citations if required as well as supporting visualizations and analysis
+- (insert importance here (social, economic, cultural, and other factors)
+- (insert how this question is tied to the data set and being used)
+- (insert graph/tableau results)
+- (insert analysis and results: Analyze and visualize the results of your analysis and describe the implications of your analysis.
+- Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau)
 
 ## Manipulations applied to the data set for analysis:
