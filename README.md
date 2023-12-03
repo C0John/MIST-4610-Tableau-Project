@@ -34,6 +34,12 @@ What is the average sales ratio for each property type? In addition, for each pr
 - Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau)
 
+![image](https://github.com/C0John/MIST-4610-Tableau-Project/assets/149621626/50728be7-cc9a-457c-88a5-d288a4e264ac)
+
+![image](https://github.com/C0John/MIST-4610-Tableau-Project/assets/149621626/f80a85ac-f41c-415c-9079-74f3eda6f108)
+
+
+
 ## Manipulations applied to the data set for analysis:
 (Were there any manipulations or calculations that needed to be performed on the data, what
 were they, describe the purpose and how they were accomplished)
