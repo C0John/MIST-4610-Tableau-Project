@@ -11,6 +11,7 @@ The Dream Team
 5. Mark Zhang [@zhmark9](https://github.com/zhmark9)
 
 ## Description of dataset:
+Our dataset details all real estate sales in the state of Connecticut between Oct. 1 2001 and Sept. 30 2020 (using the grand list year). We obtained this dataset from https://catalog.data.gov/dataset as suggested. The dataset includes several columns of quantitative and qualitative data that can be used for data analysis and visualization using Tableau. The file includes the town, property address, date of sale, property type (residential, apartment, commercial, industrial or vacant land), sales price, and property assessment as columns. Each row in the table is an individual sale. These data points allow us to analyze trends related to time, location, and categorical attributes of each sale. 
 
 ## Question 1:
 Which cities had the highest average real estate sale price? Over time, how did the sale price change over the course of the decade?
