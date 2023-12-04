@@ -11,7 +11,7 @@ The Dream Team
 5. Mark Zhang [@zhmark9](https://github.com/zhmark9)
 
 ## Description of dataset:
-Our dataset details all real estate sales in the state of Connecticut between October 1 2001 and September 30 2020 (using the "grand list year"). We obtained this dataset from [https://catalog.data.gov/dataset] as suggested. The dataset includes several columns of quantitative and qualitative data that can be used for data analysis and visualization using Tableau. The file includes the town, property address, date of sale, property type (residential, apartment, commercial, industrial or vacant land), sales price, and property assessment as columns. Each row in the table is an individual sale. These data points allow us to analyze trends related to time, location, and categorical attributes of each sale. 
+Our dataset details all real estate sales in the state of Connecticut between Oct. 1st, 2001 and Sept. 30th, 2020 (using the "grand list year"). We obtained this dataset from [https://catalog.data.gov/dataset] as suggested. The dataset includes several columns of quantitative and qualitative data that can be used for data analysis and visualization using Tableau. The file includes the town, property address, date of sale, property type (residential, apartment, commercial, industrial or vacant land), sales price, and property assessment as columns. Each row in the table is an individual sale. These data points allow us to analyze trends related to time, location, and categorical attributes of each sale. 
 
 ## Question 1:
 Which cities had the highest average real estate sale price? How did the average sale price change over time for each city?
@@ -23,7 +23,7 @@ Which cities had the highest average real estate sale price? How did the average
 - Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau)
 
-![avg_sale_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/9812dcce-b875-4b1c-a249-4c37a6573d6f)
+![avg_sale_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bf884349-2bec-4ed9-9bca-505199db0e86)
 
 ## Question 2:
 What is the average sales ratio for each property type? In addition, for each property type, how does the assessed value compare to the actual sale amount?
