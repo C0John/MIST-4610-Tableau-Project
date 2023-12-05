@@ -22,8 +22,10 @@ Which cities had the highest average real estate sale price? How did the average
 - (insert analysis and results: Analyze and visualize the results of your analysis and describe the implications of your analysis.
 - Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau)
+
 (Note: include how we're only showing cities above a certain amount for readability and relevance of data)
 ![avg_sales_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/1177c085-bb14-4799-9dd2-44e4d1d5ec87)
+
 
 
 ![sales_price_over_time](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bacc3387-fe98-4190-91ae-be93f908877e)
