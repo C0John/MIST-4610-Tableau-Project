@@ -26,7 +26,7 @@ generated from Tableau)
 ![avg_sale_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bf884349-2bec-4ed9-9bca-505199db0e86)
 
 ## Question 2:
-What is the average sales ratio for each property type? In addition, for each property type, how does the assessed value compare to the actual sale amount?
+What is the average sales ratio for each property type? What does the disparity between assessed value and actual sale amount indicate for certain property types?
 
 - (insert importance here (social, economic, cultural, and other factors)
 - (insert how this question is tied to the data set and being used)
@@ -35,11 +35,10 @@ What is the average sales ratio for each property type? In addition, for each pr
 - Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau)
 
-![image](https://github.com/C0John/MIST-4610-Tableau-Project/assets/149621626/50728be7-cc9a-457c-88a5-d288a4e264ac)
-
-![image](https://github.com/C0John/MIST-4610-Tableau-Project/assets/149621626/f80a85ac-f41c-415c-9079-74f3eda6f108)
-
-
+(Note: >1.0 sales ratio means actual sale was lower than assessed value)
+![property_type_sales_ratio](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/4cbd203b-35e8-424f-a524-c082bb778bfa)
+(Note: I think 2nd graph shows same concept pretty much just using different columns.)
+![assess_vs_sale](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/882f102f-d03f-4b8d-bb62-52b6f026e20e)
 
 ## Manipulations applied to the data set for analysis:
 (Were there any manipulations or calculations that needed to be performed on the data, what
