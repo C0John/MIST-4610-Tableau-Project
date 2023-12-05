@@ -22,8 +22,12 @@ Which cities had the highest average real estate sale price? How did the average
 - (insert analysis and results: Analyze and visualize the results of your analysis and describe the implications of your analysis.
 - Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau)
+(Note: include how we're only showing cities above a certain amount for readability and relevance of data)
+![avg_sales_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/1177c085-bb14-4799-9dd2-44e4d1d5ec87)
 
-![avg_sale_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bf884349-2bec-4ed9-9bca-505199db0e86)
+
+![sales_price_over_time](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bacc3387-fe98-4190-91ae-be93f908877e)
+
 
 ## Question 2:
 What is the average sales ratio for each property type? What does the disparity between assessed value and actual sale amount indicate for certain property types?
@@ -36,14 +40,18 @@ What is the average sales ratio for each property type? What does the disparity 
 generated from Tableau)
 
 (Note: >1.0 sales ratio means actual sale was lower than assessed value)
-![property_type_sales_ratio](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/4cbd203b-35e8-424f-a524-c082bb778bfa)
+![sales_ratio](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/17c9546a-3de4-408f-94a8-6a05eb589b90)
+
+
 (Note: I think 2nd graph shows same concept pretty much just using different columns.)
-![assess_vs_sale](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/882f102f-d03f-4b8d-bb62-52b6f026e20e)
+
+![assessed_vs_sale_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bd0d70eb-0bcb-42dc-bd08-86d119cc615b)
+
 
 ## Manipulations applied to the data set for analysis:
 (Were there any manipulations or calculations that needed to be performed on the data, what
 were they, describe the purpose and how they were accomplished)
 
 ## Tableau Packaged Workbook
-(Save or Export your project as a Tableau packaged workbook file and provide it as part of the
-GitHub repository)
+
+The Tableau Packaged Workbook is attached in this same repository. 
