@@ -50,7 +50,7 @@ Developmentally, the average sales ratio disparity can affect decision making re
 ![Graph 3](https://github.com/C0John/MIST-4610-Tableau-Project/assets/148258373/d90e22b2-f506-4f96-8b09-8b480f507c9a)
 
 
-Our first visualization for Question 2 illustrates the average sales ratio for each property type. As the graph shows, the Single Family property type has the highest average sales ratio - slightly over 0.7. In addition, the Apartments property type along with a couple others are around 0.5 and 0.6. This means for these property types, the sales amount was above the assessed value. These ratios indicate slight disparities and must be monitored in order to ensure fair and accurate assessments. Note that all property types fall below 1.0. This is due to the removal and exlusion of extreme outliers that are not relevant and would skew the data visualization.
+Our first visualization for Question 2 illustrates the average sales ratio for each property type. As the graph shows, the Single Family property type has the highest average sales ratio - slightly over 0.7. In addition, the Apartments property type along with a couple others are around 0.5 and 0.6. This means for these property types, the sales amount was above the assessed value. These ratios indicate slight disparities and must be monitored in order to ensure fair and accurate assessments. Note that all property types fall below 1.0. This is due to the removal and exclusion of extreme outliers that are not relevant and would skew the data visualization.
 
 
 ![Graph 4](https://github.com/C0John/MIST-4610-Tableau-Project/assets/148258373/a9e97844-cd95-44e0-9d9b-34102fdc5f7b)
