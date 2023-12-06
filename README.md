@@ -27,7 +27,7 @@ Higher real estate prices can often signify desirable places to live, own land, 
 
 Our first visualization for Question 1 (above) illustrates the average sales price, by town, for all of the towns in the data set. We have decided to only show the towns above $700k sales amount in order for the illustration to be readable and to maintain relevance. With that said, an analysis can be done for any other parameter. As you can see, Willington has the highest average sales price and Fairfield has the lowest average sales price in this illustration. This single metric serves as a valuable tool for analyzing and inferring various societal factors, and when combined with external data, it contributes to a comprehensive understanding of the underlying trends. Using this sales price data, we are able to analyze it further in our second illustration.
 
-![image](https://github.com/C0John/MIST-4610-Tableau-Project/assets/149621626/df27836c-1ae3-4574-9c64-03ca57681214)
+![image](https://github.com/C0John/MIST-4610-Tableau-Project/assets/149621626/148284a2-8432-47b5-88e4-abac7df9e9fe)
 
 
 
