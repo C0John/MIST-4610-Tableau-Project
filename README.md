@@ -58,7 +58,7 @@ Our second visualization for Question 2 illustrates the disparity between the av
 
 
 ## Manipulations applied to the data set for analysis:
-Our data set contained several extreme outliers that were removed in the filtering process using Tableau. We were able to remove this outliers to get a more accurate representation of the average sales ratios. Without their removal, we would have extreme average ratios that would not only contradict the other visualizations and graphs, but show confusing and skewed tables. Other than manipulations, the only 'calculations' we used were using the AVG function in Tableau.
+Our data set contained several extreme outliers in Question 2's context that were removed in the filtering process using Tableau. We were able to remove this outliers to get a more accurate representation of the average sales ratios. Without their removal, we would have extreme average ratios that would not only contradict the other visualizations and graphs, but show confusing and skewed tables. As described in Question 1's information, we also removed another outlier from that data as well. Other than manipulations, the only 'calculations' we used were using the AVG function in Tableau.
 
 
 ## Tableau Packaged Workbook
