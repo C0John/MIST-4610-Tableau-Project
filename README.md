@@ -38,6 +38,8 @@ Our second visualization for Question 1 (above) illustrates the average sales pr
 What is the average sales ratio for each property type? What does the disparity between assessed value and actual sale amount indicate for certain property types? This question directly references the sales ratio column with the use of the AVG function. The assessed amount and sales amount columns are also used as well.
 
 ### Importance:
+The sales ratio in real estate refers to the relationship between the assessed value of a property and its actual sale price. It is typically expressed as a percentage and is used to evaluate the accuracy and fairness of property assessments.
+
 Examining the average sales ratio for each property type and assessing the disparities between assessed values and actual sale amounts holds significant importance for various stakeholders. This analysis provides valuable insights into the accuracy of property assessments, offering a means to evaluate the effectiveness of the valuation process. It enables homeowners, buyers, and investors to make informed decisions about property transactions by revealing whether properties are generally assessed fairly or if there are systematic overvaluations or undervaluations for specific property types. Beyond individual decision-making, this information is essential for policymakers and local governments in shaping property tax policies and zoning regulations. By understanding these ratios and disparities, authorities can ensure fairness and equity in tax burdens, support economic development, and maintain a transparent and thriving real estate market.
 
 ![Graph 3](https://github.com/C0John/MIST-4610-Tableau-Project/assets/148258373/d90e22b2-f506-4f96-8b09-8b480f507c9a)
