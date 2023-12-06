@@ -47,16 +47,17 @@ Socially, inaccurate assessments can impact homeownership, particulary low-incom
 Developmentally, the average sales ratio disparity can affect decision making related to land use, zoning, and infrastructure development. In other words, the disparity can determine if decisions need to altered regarding zoning, land use, and infrastructure development. The ratio is crucial in urban development and planning in order to allocate resources efficiently. In addition and just by having the average sales ratio for each property type, governing officials are provided insights into each property type's ratio and can then make inferences on the reasons behind why each ratio is that particular value. Without this ratio value and the visualization, these officials would have no way of garnering helpful data to make informed decisions.
 
 
-(Note: >1.0 sales ratio means actual sale was lower than assessed value)
-(<1.0 means actual sale was higher than assessed value)
-![sales_ratio](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/17c9546a-3de4-408f-94a8-6a05eb589b90)
+![Graph 3](https://github.com/C0John/MIST-4610-Tableau-Project/assets/148258373/d90e22b2-f506-4f96-8b09-8b480f507c9a)
+
 
 Our first visualization for Question 2 illustrates the average sales ratio for each property type. As the graph shows, the Single Family property type has the highest average sales ratio - slightly over 0.7. In addition, the Apartments property type along with a couple others are around 0.5 and 0.6. This means for these property types, the sales amount was above the assessed value. These ratios indicate slight disparities and must be monitored in order to ensure fair and accurate assessments. Note that all property types fall below 1.0. This is due to the removal and exlusion of extreme outliers that are not relevant and would skew the data visualization.
 
 
-![assessed_vs_sale_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bd0d70eb-0bcb-42dc-bd08-86d119cc615b)
+![Graph 4](https://github.com/C0John/MIST-4610-Tableau-Project/assets/148258373/a9e97844-cd95-44e0-9d9b-34102fdc5f7b)
+
 
 Our second visualization for Question 2 illustrates the disparity between the average assessed value and the average sale amount. Please note that the dollar amount ($, x-axis) is slightly different for each tablel. This is to ensure that the visualization is easy to read. Referring back to the Single Family and Apartments property type mentioned in the first visualization, the graph accurately portrays that Single Family properties are assessing at ~$280,000 while selling for almost double and Apartment properties are assessing for ~$1,283,325 while selling for ~$2,734,071. Having these two graphs side by side allows an analyzer to understand which properties have higher and lower average sales ratios and provides insights to estimated assessed values and actual sale amounts. Rather than just a sales ratio number, this visualization further describes the disprarities and provides estimations.
+
 
 ## Manipulations applied to the data set for analysis:
 Our data set contained several extreme outliers that were removed in the filtering process using Tableau. We were able to remove this outliers to get a more accurate representation of the average sales ratios. Without their removal, we would have extreme average ratios that would not only contradict the other visualizations and graphs, but show confusing and skewed tables. Other than manipulations, the only 'calculations' we used were using the AVG function in Tableau.
