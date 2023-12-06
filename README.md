@@ -25,8 +25,7 @@ Higher real estate prices can often signify desirable places to live, own land, 
 ![avg_sales_price](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/1177c085-bb14-4799-9dd2-44e4d1d5ec87)
 
 
-Our first visualization for Question 1 (above) illustrates the average sales price, by town, for all of the towns in the data set. We have decided to only show the towns above $700k sales amount in order for the illustration to be readable and to maintain relevance. With that said, an analysis can be done for any other parameter. As you can see, Willington has the highest average sales price and Fairfield has the lowest average sales price in this illustration. Many societal factors can be analyzed and inferred with the use of this one number and can also be used in conjunction of other outside data in order to collect a holistic analysis of why the numbers are the way they are. Using this sales price data, we are able to analyze it further in our second illustration.
-
+Our first visualization for Question 1 (above) illustrates the average sales price, by town, for all of the towns in the data set. We have decided to only show the towns above $700k sales amount in order for the illustration to be readable and to maintain relevance. With that said, an analysis can be done for any other parameter. As you can see, Willington has the highest average sales price and Fairfield has the lowest average sales price in this illustration. This single metric serves as a valuable tool for analyzing and inferring various societal factors, and when combined with external data, it contributes to a comprehensive understanding of the underlying trends. Using this sales price data, we are able to analyze it further in our second illustration.
 
 ![sales_price_over_time](https://github.com/C0John/MIST-4610-Tableau-Project/assets/141379047/bacc3387-fe98-4190-91ae-be93f908877e)
 
